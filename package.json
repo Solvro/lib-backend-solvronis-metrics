@@ -1,6 +1,6 @@
 {
   "name": "@solvro/solvronis-metrics",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prometheus metrics exporter for adonis",
   "keywords": [
     "prometheus",
