@@ -11,13 +11,13 @@
     "request-timings",
     "request-counts"
   ],
-  "homepage": "https://github.com/Solvro/lib-solvronis-metrics#readme",
+  "homepage": "https://github.com/Solvro/lib-backend-solvronis-metrics#readme",
   "bugs": {
-    "url": "https://github.com/Solvro/lib-solvronis-metrics/issues"
+    "url": "https://github.com/Solvro/lib-backend-solvronis-metrics/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Solvro/lib-solvronis-metrics.git"
+    "url": "git+https://github.com/Solvro/lib-backend-solvronis-metrics.git"
   },
   "license": "MPL-2.0",
   "author": "",
